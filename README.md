@@ -37,14 +37,14 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 For the project to work properly you need to make a new project in firebase, and add your credentials to the environment variables <.env.local>
 
-Example:
+Example:<br/>
 
-admin_user=Brunnic
-admin_password=123456
-SECRET=Wb4AL1A8LicKvHmq
-NEXT_PUBLIC_FIREBASE_API_KEY=
-NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=
-NEXT_PUBLIC_FIREBASE_PROJECT_ID=
-NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=
-NEXT_PUBLIC_FIREBASE_SENDER_ID=
-NEXT_PUBLIC_FIREBASE_APP_ID=
+admin_user=Brunnic<br/>
+admin_password=123456<br/>
+SECRET=Wb4AL1A8LicKvHmq<br/>
+NEXT_PUBLIC_FIREBASE_API_KEY=<br/>
+NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=<br/>
+NEXT_PUBLIC_FIREBASE_PROJECT_ID=<br/>
+NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=<br/>
+NEXT_PUBLIC_FIREBASE_SENDER_ID=<br/>
+NEXT_PUBLIC_FIREBASE_APP_ID=<br/>
