@@ -73,7 +73,7 @@ const ContactPage = () => {
         </Socials>
       </Container>
 
-      <Footer />
+      <Footer margin={undefined} />
     </Main>
   );
 };

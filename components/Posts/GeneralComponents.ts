@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const HeadPostImage = styled.div`
-  background-image: ${(props) => `url(${props.url})`};
+  background-image: ${(props: { url: string }) => `url(${props.url})`};
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto;
